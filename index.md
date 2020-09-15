@@ -14,7 +14,3 @@ I am an Assistant Professor in the La Follette School of Public Affairs at the U
 [CV (PDF)](docs/CV.pdf){: .btn .btn-dark}
 
 ### Working Papers
-
-<div class="alert alert-dark" role="alert">
-  This is a dark alert—check it out!
-</div>
