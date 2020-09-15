@@ -3,7 +3,7 @@ title: Home
 nav_order: 1
 ---
 
-## Lindsay Jacobs
+
 
 ![](docs/3329994.png)
 
