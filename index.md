@@ -17,4 +17,6 @@ I am an Assistant Professor in the La Follette School of Public Affairs at the U
 
 ### Working Papers
 
-{: .alert}
+<div class="alert alert-dark" role="alert">
+  This is a dark alert—check it out!
+</div>
