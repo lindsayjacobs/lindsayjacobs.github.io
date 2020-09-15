@@ -3,3 +3,5 @@ color_scheme: dark
 title: Lindsay Jacobs
 description: Personal Homepage of Lindsay Jacobs, PhD
 search_enabled: false
+
+theme: jekyll-theme-midnight
