@@ -1,7 +1,6 @@
 theme: jekyll-theme-slate
 search_enabled: false
-title: Lindsay Jacobs
-description: University of Wisconsin–Madison
+title: null
 
 github:
   is_project_page: false
