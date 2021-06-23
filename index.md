@@ -15,9 +15,9 @@ Paper 1 [(link to paper)](papers/Jacobs_CV.pdf){: .btn}
 
 ### Teaching
 
-PA 380: Analytic Tools for Public Policy<br>
-PA 880: Microeconomics for Public Policy<br>
-PA 974: Aging and Public Policy
+PA 380: Analytic Tools for Public Policy (Spring 2021 Syllabus)<br>
+PA 880: Microeconomics for Public Policy (Fall 2020 Syllabus)<br>
+PA 974: Aging and Public Policy (Spring 2020 Syllabus)
 
 ```
 
