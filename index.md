@@ -16,8 +16,7 @@ Paper 1 [(link to paper)](papers/Jacobs_CV.pdf){: .btn}
 ### Teaching
 
 PA 380: Analytic Tools for Public Policy<br>
-PA 880: Microeconomics for Public Policy
-
+PA 880: Microeconomics for Public Policy<br>
 PA 974: Aging and Public Policy
 
 ```
