@@ -8,10 +8,10 @@ nav_order: 1
 ### Hello!
 I am an Assistant Professor in the La Follette School of Public Affairs at the University of Wisconsin–Madison. My research is in labor economics, especially the later-life interactions among health, occupation, savings, and labor supply decisions.  
 
-[CV (PDF)](docs/Jacobs_CV.pdf){: .btn}
+[CV (PDF)](docs/Jacobs_CV_Sept2020.pdf){: .btn}
 
 ### Research 
-Paper 1 [(link to paper)](papers/Jacobs_CV_Sept2020.pdf){: .btn}
+Paper 1 [(link to paper)](papers/paper1.pdf){: .btn}
 
 ### Teaching
 
