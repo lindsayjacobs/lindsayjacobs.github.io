@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 search_enabled: false
 title: Lindsay Jacobs
-description: University of Wisconsin–Madison
+description: University of Wisconsin–Madison <img src="docs/lindsay-jacobs-mutlu.png" width="30%" height="30%">
 
 github:
   is_project_page: false
