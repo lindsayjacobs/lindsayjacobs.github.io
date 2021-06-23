@@ -11,7 +11,7 @@ I am an Assistant Professor in the La Follette School of Public Affairs at the U
 [CV (PDF)](docs/Jacobs_CV.pdf){: .btn}
 
 ### Research 
-Paper 1 [(link to paper)](papers/Jacobs_CV.pdf){: .btn}
+Paper 1 [(link to paper)](papers/Jacobs_CV_Sept2020.pdf){: .btn}
 
 ### Teaching
 
