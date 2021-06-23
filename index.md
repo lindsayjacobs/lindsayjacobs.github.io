@@ -15,9 +15,9 @@ Paper 1 [(link to paper)](papers/paper1.pdf){: .btn}
 
 ### Teaching
 
-PA 380: Analytic Tools for Public Policy (Spring 2021 Syllabus)<br>
-PA 880: Microeconomics for Public Policy (Fall 2020 Syllabus)<br>
-PA 974: Aging and Public Policy (Spring 2020 Syllabus)
+PA 380: Analytic Tools for Public Policy ([Spring 2021 Syllabus](docs/PA_380_Syllabus_Spring_2021.pdf){: .btn})<br>
+PA 880: Microeconomics for Public Policy ([Fall 2020 Syllabus](docs/PA880_Syllabus_Fall2020.pdf){: .btn})<br>
+PA 974: Aging and Public Policy ([Spring 2020 Syllabus](docs/PA_974_Aging_Syllabus.pdf){: .btn})
 
 ```
 
