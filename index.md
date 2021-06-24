@@ -13,7 +13,7 @@ I am an Assistant Professor in the La Follette School of Public Affairs at the U
 ### Current Research 
 "Wealth Concentration in the U.S. Using an Expanded Measure of Net Worth" with Alice Henriques Volz, Elizabeth Llanes, Kevin Moore, and Jeff Thompson [(paper)](papers/Wealth_Concentration_Expanded_NW.pdf){: .btn}
 <br> 
-&emsp;&emsp;&emsp;&emsp;<i> summary </i>
+&emsp;&emsp;&emsp;&emsp;<i> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id iaculis est. Fusce nec viverra est, sed condimentum ipsum. Aliquam commodo laoreet suscipit. Aenean interdum congue ante.  </i>
 
 "Occupations and Work at Older Ages: Varied Responses to Policy" [(paper)](papers/VariedResponses-Policy.pdf){: .btn}
 <br> 
