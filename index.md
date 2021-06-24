@@ -17,7 +17,7 @@ Occupations and Work at Older Ages: Varied Responses to Policy [(link to paper)]
 <br> 
 &emsp;<i> summary </i>
 <br>
-[(paper)](papers/ReverseRetirement_March2020.pdf){: .btn}
+"Labor Force Transitions at Older Ages: Burnout, Recovery, and Reverse Retirement" with Suphanit Piyapromdee [(paper)](papers/ReverseRetirement_March2020.pdf){: .btn}
 
 ### Teaching
 
