@@ -10,6 +10,18 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4XH1XN56Q9"></script>
+    <!-- {% if site.google_analytics %} -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-4XH1XN56Q9');
+    </script>
+    <!-- {% endif %} -->
+    
   </head>
   <body>
     <div class="wrapper">
@@ -42,15 +54,5 @@
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a> <i>Updated March 2021</i></small></p>
       </footer>
     </div>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4XH1XN56Q9"></script>
-    <!-- {% if site.google_analytics %} -->
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-4XH1XN56Q9');
-    </script>
-    <!-- {% endif %} -->
   </body>
 </html>
