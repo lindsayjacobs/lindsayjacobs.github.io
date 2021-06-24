@@ -14,12 +14,9 @@ I am an Assistant Professor in the La Follette School of Public Affairs at the U
 Wealth Concentration in the U.S. Using an Expanded Measure of Net Worth [(link to paper)](papers/Wealth_Concentration_Expanded_NW.pdf){: .btn}<br>
 Occupations and Work at Older Ages: Varied Responses to Policy [(link to paper)](papers/VariedResponses-Policy.pdf){: .btn}
 <br> 
-<i> summary </i>
+<dd><i> summary </i>
 
-<DL>
-<DT>Term
-<DD>Description
-</DL>
+
 
 ### Teaching
 
