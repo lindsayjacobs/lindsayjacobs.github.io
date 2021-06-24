@@ -13,16 +13,12 @@ I am an Assistant Professor in the La Follette School of Public Affairs at the U
 
 ### Current Research 
 "Wealth Concentration in the U.S. Using an Expanded Measure of Net Worth" with Alice Henriques Volz, Elizabeth Llanes, Kevin Moore, and Jeff Thompson [(paper)](papers/Wealth_Concentration_Expanded_NW.pdf){: .btn}
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id iaculis est. Fusce nec viverra est, sed condimentum ipsum. Aliquam commodo laoreet suscipit. Aenean interdum congue ante.
 
 "Occupations and Work at Older Ages: Varied Responses to Policy" [(paper)](papers/VariedResponses-Policy.pdf){: .btn}
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id iaculis est. Fusce nec viverra est, sed condimentum ipsum. Aliquam commodo laoreet suscipit. Aenean interdum congue ante.
 
 "Labor Force Transitions at Older Ages: Burnout, Recovery, and Reverse Retirement" *with Suphanit Piyapromdee* [(paper)](papers/ReverseRetirement_March2020.pdf){: .btn}
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id iaculis est. Fusce nec viverra est, sed condimentum ipsum. Aliquam commodo laoreet suscipit. Aenean interdum congue ante.
 
 "Occupations, Retirement, and the Value of Disability Insurance" [(paper)](papers/Occupations-Retirement-DI_Jacobs.pdf){: .btn}
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id iaculis est. Fusce nec viverra est, sed condimentum ipsum. Aliquam commodo laoreet suscipit. Aenean interdum congue ante.
 
 
 ### Teaching
