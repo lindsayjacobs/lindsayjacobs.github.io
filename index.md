@@ -11,7 +11,7 @@ I am an Assistant Professor in the La Follette School of Public Affairs at the U
 [CV (PDF)](docs/Jacobs_CV_Sept2020.pdf){: .btn}
 
 ### Research 
-Wealth Concentration in the U.S. Using an Expanded Measure of Net Worth [(link to paper)](papers/Wealth_Concentration_Expanded_NW.pdf){: .btn}
+Wealth Concentration in the U.S. Using an Expanded Measure of Net Worth [(link to paper)](papers/Wealth_Concentration_Expanded_NW.pdf){: .btn}<br>
 Occupations and Work at Older Ages: Varied Responses to Policy [(link to paper)](papers/VariedResponses-Policy.pdf){: .btn}
 <br> 
 .tab { text-indent:40px }<i> summary </i>
