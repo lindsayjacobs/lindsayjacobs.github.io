@@ -10,6 +10,7 @@ I am an Assistant Professor in the La Follette School of Public Affairs at the U
 
 [CV (PDF)](docs/Jacobs_CV_Sept2020.pdf){: .btn}
 
+<br>
 
 ### Current Research 
 "Wealth Concentration in the U.S. Using an Expanded Measure of Net Worth" with Alice Henriques Volz, Elizabeth Llanes, Kevin Moore, and Jeff Thompson [(paper)](papers/Wealth_Concentration_Expanded_NW.pdf){: .btn}
