@@ -17,7 +17,7 @@ I am an Assistant Professor in the La Follette School of Public Affairs at the U
 
 "Occupations and Work at Older Ages: Varied Responses to Policy" [(paper)](papers/VariedResponses-Policy.pdf){: .btn}
 <br> 
-&emsp;&emsp;&emsp;&emsp;<i> summary </i>
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id iaculis est. Fusce nec viverra est, sed condimentum ipsum. Aliquam commodo laoreet suscipit. Aenean interdum congue ante.
 
 "Labor Force Transitions at Older Ages: Burnout, Recovery, and Reverse Retirement" *with Suphanit Piyapromdee* [(paper)](papers/ReverseRetirement_March2020.pdf){: .btn}
 
